@@ -1,0 +1,2 @@
+Sangue;Dor;Exames físicos;12.0;Agulha;Livinho - CRM: Enfermeiro (SP12345);
+Exame patológico;a;Patologia e análise clínica;1299.0;a;Livinho - CRM: Enfermeiro (SP12345);

@@ -1,0 +1,5 @@
+PISTÃO:
+A lógica do pistão é: Quanto maior a força (1 a 3) mais frames ele mostra (1 a 7).
+Quando instanciado em Level, a mudança da força consegue mostrar a qnt de frames corretamente, mas quando alterado em designTrap não.
+Ou seja, se na intancia de Level, o pistão tem força 1, independente da força que voce coloque em designTraps, a qnt de frames continua sendo só 1 a 3 (Força 1), mesmo que na prática a intensidade da força tenha mudado.
+Como se designTraps não estivesse sobrescrevendo a variável de força.

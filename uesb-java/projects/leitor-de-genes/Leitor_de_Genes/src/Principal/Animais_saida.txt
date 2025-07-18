@@ -1,0 +1,179 @@
+Comparação entre Duck e Chicken:
+- Iguais: 11550
+- Diferentes: 2493
+- Porcentagem de semelhanca: 82,247383.2
+
+Comparação entre Duck e Rhea:
+- Iguais: 11466
+- Diferentes: 2577
+- Porcentagem de semelhanca: 81,649220.2
+
+Comparação entre Duck e Ostrich:
+- Iguais: 11376
+- Diferentes: 2667
+- Porcentagem de semelhanca: 81,008332.2
+
+Comparação entre Duck e Falcon:
+- Iguais: 11325
+- Diferentes: 2718
+- Porcentagem de semelhanca: 80,645161.2
+
+Comparação entre Duck e Subosc:
+- Iguais: 11052
+- Diferentes: 2991
+- Porcentagem de semelhanca: 78,701132.2
+
+Comparação entre Duck e Oscine:
+- Iguais: 11298
+- Diferentes: 2745
+- Porcentagem de semelhanca: 80,452895.2
+
+Comparação entre Duck e Aligat:
+- Iguais: 9556
+- Diferentes: 4487
+- Porcentagem de semelhanca: 68,048138.2
+
+Comparação entre Duck e Turtle:
+- Iguais: 10101
+- Diferentes: 3942
+- Porcentagem de semelhanca: 71,929075.2
+
+Comparação entre Chicken e Rhea:
+- Iguais: 11438
+- Diferentes: 2605
+- Porcentagem de semelhanca: 81,449833.2
+
+Comparação entre Chicken e Ostrich:
+- Iguais: 11416
+- Diferentes: 2627
+- Porcentagem de semelhanca: 81,293171.2
+
+Comparação entre Chicken e Falcon:
+- Iguais: 11411
+- Diferentes: 2632
+- Porcentagem de semelhanca: 81,257566.2
+
+Comparação entre Chicken e Subosc:
+- Iguais: 11159
+- Diferentes: 2884
+- Porcentagem de semelhanca: 79,463078.2
+
+Comparação entre Chicken e Oscine:
+- Iguais: 11197
+- Diferentes: 2846
+- Porcentagem de semelhanca: 79,733675.2
+
+Comparação entre Chicken e Aligat:
+- Iguais: 9635
+- Diferentes: 4408
+- Porcentagem de semelhanca: 68,610696.2
+
+Comparação entre Chicken e Turtle:
+- Iguais: 10260
+- Diferentes: 3783
+- Porcentagem de semelhanca: 73,061312.2
+
+Comparação entre Rhea e Ostrich:
+- Iguais: 11825
+- Diferentes: 2218
+- Porcentagem de semelhanca: 84,205654.2
+
+Comparação entre Rhea e Falcon:
+- Iguais: 11276
+- Diferentes: 2767
+- Porcentagem de semelhanca: 80,296233.2
+
+Comparação entre Rhea e Subosc:
+- Iguais: 11084
+- Diferentes: 2959
+- Porcentagem de semelhanca: 78,929004.2
+
+Comparação entre Rhea e Oscine:
+- Iguais: 11204
+- Diferentes: 2839
+- Porcentagem de semelhanca: 79,783522.2
+
+Comparação entre Rhea e Aligat:
+- Iguais: 9538
+- Diferentes: 4505
+- Porcentagem de semelhanca: 67,919960.2
+
+Comparação entre Rhea e Turtle:
+- Iguais: 10168
+- Diferentes: 3875
+- Porcentagem de semelhanca: 72,406181.2
+
+Comparação entre Ostrich e Falcon:
+- Iguais: 11317
+- Diferentes: 2726
+- Porcentagem de semelhanca: 80,588193.2
+
+Comparação entre Ostrich e Subosc:
+- Iguais: 11108
+- Diferentes: 2935
+- Porcentagem de semelhanca: 79,099907.2
+
+Comparação entre Ostrich e Oscine:
+- Iguais: 11178
+- Diferentes: 2865
+- Porcentagem de semelhanca: 79,598376.2
+
+Comparação entre Ostrich e Aligat:
+- Iguais: 9560
+- Diferentes: 4483
+- Porcentagem de semelhanca: 68,076622.2
+
+Comparação entre Ostrich e Turtle:
+- Iguais: 10223
+- Diferentes: 3820
+- Porcentagem de semelhanca: 72,797835.2
+
+Comparação entre Falcon e Subosc:
+- Iguais: 11210
+- Diferentes: 2833
+- Porcentagem de semelhanca: 79,826248.2
+
+Comparação entre Falcon e Oscine:
+- Iguais: 11241
+- Diferentes: 2802
+- Porcentagem de semelhanca: 80,046999.2
+
+Comparação entre Falcon e Aligat:
+- Iguais: 9572
+- Diferentes: 4471
+- Porcentagem de semelhanca: 68,162074.2
+
+Comparação entre Falcon e Turtle:
+- Iguais: 10126
+- Diferentes: 3917
+- Porcentagem de semelhanca: 72,107100.2
+
+Comparação entre Subosc e Oscine:
+- Iguais: 11078
+- Diferentes: 2965
+- Porcentagem de semelhanca: 78,886278.2
+
+Comparação entre Subosc e Aligat:
+- Iguais: 9506
+- Diferentes: 4537
+- Porcentagem de semelhanca: 67,692089.2
+
+Comparação entre Subosc e Turtle:
+- Iguais: 10072
+- Diferentes: 3971
+- Porcentagem de semelhanca: 71,722566.2
+
+Comparação entre Oscine e Aligat:
+- Iguais: 9589
+- Diferentes: 4454
+- Porcentagem de semelhanca: 68,283130.2
+
+Comparação entre Oscine e Turtle:
+- Iguais: 10171
+- Diferentes: 3872
+- Porcentagem de semelhanca: 72,427544.2
+
+Comparação entre Aligat e Turtle:
+- Iguais: 9672
+- Diferentes: 4371
+- Porcentagem de semelhanca: 68,874172.2

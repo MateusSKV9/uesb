@@ -1,0 +1,7 @@
+WILLIAM - CRM: PEDIATRA (AA1234);Julia - Data de nascimento: 14/12/2024;11/12/2025;10:10;
+Livinho - CRM: Enfermeiro (SP12345);José dos Santos Oliveira - Data de nascimento: 25/10/1970;06/06/2025;12:12;
+Livinho - CRM: Enfermeiro (SP12345);Julia - Data de nascimento: 14/12/2024;12/01/2025;14:30;
+Livinho - CRM: Enfermeiro (SP12345);Julia - Data de nascimento: 14/12/2024;29/11/2029;14:12;
+Mateus - CRM: pediada (as1234);Jubileu - Data de nascimento: 22/12/2024;13/12/2027;11:11;
+Livinho - CRM: Enfermeiro (SP12345);Jubileu - Data de nascimento: 22/12/2024;12/12/2024;11:11;
+Murilo - CRM: a (ac1234);Matias - Data de nascimento: 12/12/2024;15/12/2024;13:00;

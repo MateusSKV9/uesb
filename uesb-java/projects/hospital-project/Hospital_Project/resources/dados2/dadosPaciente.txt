@@ -1,0 +1,3 @@
+a;11/11/2024;a;A-;1.0;1.0;a;Plano Básico;a;a;a;a;12345-123;a;a
+Jubileu;22/12/2024;00000000000000000;O+;999.0;99.0;AAAAAAAAAAAAAAAAAAAAAAAAAAA;Plano Diamante;b;b;b;b;12345-124;b;b
+teste;20/03/2005;77981049182;B-;1.0;45.0;teste;Plano Ouro;teste;8;teste;teste;12345-678;teste;teste

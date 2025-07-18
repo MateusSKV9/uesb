@@ -1,0 +1,3 @@
+11/11/2031;11:11;Livinho - CRM: Enfermeiro (SP12345);Julia - Data de nascimento: 14/12/2024;ass;Consulta 2;Plano Bronze;a;a;
+13/12/2026;11:11;Livinho - CRM: Enfermeiro (SP12345);Jubileu - Data de nascimento: 22/12/2024;qqqqqqqqqqq;Consulta 1;Plano Básico;aaaaaaaaaaa;aaaaaaaaa;
+30/12/2024;12:12;Mateus - CRM: pediada (as1234);Jubileu - Data de nascimento: 22/12/2024;zzzzzzzzzzzz;Consulta 1;Plano Bronze;z;as;

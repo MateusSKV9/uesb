@@ -1,0 +1,20 @@
+>>> OBJETOS IMAGEM - MAPA - LEVEIS <<<
+
+OBJETIVO:
+- Após criar a matriz, precisamos personalizar os objetos. Cada fase terá sua própria personalização, como mover um tile, ou alguma programação que acontece quando usuario faz alguma coisa. Portanto, deve estar muito bem estruturado e conciso. 
+Problemas possiveis:
+Criar uma classe para cada level (sao 10 no total) pode deixar grande demais. Não é um problema real, pois se colocar em uma pasta fica ok
+
+
+Gerenciamento de objetos (plataformas, lasers, etc.): Atualmente, a matriz de mapa é usada para definir os objetos (com números representando diferentes tipos de objetos) e o método carregarMapa apenas converte esses números em objetos físicos (plataformas, traps). ENTRETANTO, o método carregarMapa não registra as posições desses objetos nem facilita a personalização.
+
+Matriz de objetos (ao invés de apenas números), onde cada objeto será uma instância de uma classe (como Platform, Laser, etc.), o que permite um controle mais fácil sobre interações e personalizações a partir de um índice específico da matriz, modificar suas propriedades ( x, y, comportamento, potencia).
+
+Cada posição no mapa de nível poderia ser um objeto, e a matriz de mapa só faria a ligação com o tipo de objeto.
+Ex.: 
+Objeto[][] mapaObjetos = new Objeto[LIN][COLS];
+Onde Objeto é a classe abstrata e Platform, Trap, etc., são as subclasses. Cada valor no mapa de nível poderia ser associado a um objeto instanciado
+
+-----------------------------
+>>> GRAVIDADE <<<
+A gravidade é uma mecanica 
