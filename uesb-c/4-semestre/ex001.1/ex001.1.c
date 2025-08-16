@@ -72,9 +72,9 @@ int main() {
     printf("2. Sair \n> ");
     scanf("%d", &option);
 
-    if (option == 2) {
+    if (option == 2)
       printf("FIM DO PROGRAMA\n");
-    }
+
   } while (option != 2);
 
   free(quadraticEquation);
