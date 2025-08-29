@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Formulário 1</title>
+	</head>
+	<body>
+		<h1>Primeiro Formulário</h1>
+
+		<form action="#" method="get">
+			<fieldset>
+				<legend>Dados Pessoais</legend>
+
+				<div>
+					<label for="iFirstName">
+						Nome:
+						<input
+							type="text"
+							name="iFirstName"
+							id="iFirstName"
+							minlength="1"
+							maxlength="45"
+							required
+							placeholder="Seu nome"
+						/>
+					</label>
+				</div>
+				<br />
+				<div>
+					<label for="iLastName">
+						Sobrenome:
+						<input
+							type="text"
+							name="iLastName"
+							id="iLastName"
+							minlength="1"
+							maxlength="45"
+							required
+							placeholder="Seu sobrenome"
+						/>
+					</label>
+				</div>
+				<br />
+				<div>
+					<label for="iemail">
+						Email:
+						<input
+							type="email"
+							name="iemail"
+							id="iemail"
+							minlength="1"
+							maxlength="45"
+							required
+							placeholder="Seu email"
+						/>
+					</label>
+				</div>
+				<br />
+				<div>
+					<label for="dateOfBirth">
+						Data de nascimento:
+						<input type="date" name="dateOfBirth" id="dateOfBirth" min="1900-01-01" max="2025-01-01" required />
+					</label>
+				</div>
+				<br />
+				<div>
+					<span>Gênero:</span>
+					<label for="imale"> <input type="radio" name="gender" id="imale" required /> Masculino </label>
+					<label for="ifemale"> <input type="radio" name="gender" id="ifemale" required /> Feminino </label>
+				</div>
+				<br />
+				<input type="submit" value="Enviar" />
+				<input type="reset" value="Limpar" />
+			</fieldset>
+		</form>
+	</body>
+</html>
