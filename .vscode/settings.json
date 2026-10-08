@@ -1,5 +1,25 @@
 {
 	"files.associations": {
 		"iostream": "cpp"
-	}
+	},
+	"java.debug.settings.onBuildFailureProceed": true,
+	"cSpell.words": [
+		"Binario",
+		"diferenca",
+		"diferencas",
+		"Diferencas",
+		"divisao",
+		"indice",
+		"mudancas",
+		"Mudancas",
+		"numeros",
+		"ocorrencia",
+		"palindromo",
+		"Palindromo",
+		"posicao",
+		"Posicao",
+		"posicoes",
+		"Somatoria",
+		"substituicao"
+	]
 }
