@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>CANVAS_API</title>
+		<style>
+			canvas {
+				border: 2px solid #333;
+				background-color: #f9f9f9;
+			}
+		</style>
+	</head>
+
+	<body>
+		<canvas id="gameCanvas" width="500" height="400"></canvas>
+
+		<script type="module">
+			const canvas = document.getElementById("gameCanvas");
+			const ctx = canvas.getContext("2d");
+
+			const spriteSheet = new Image();
+			spriteSheet.src = "spritesheet.png";
+			await spriteSheet.decode();
+
+			
+
+			function renderLoop() {
+				ctx.clearRect(0, 0, 400, 400);
+
+				if (!video.paused && !video.ended) {
+					ctx.drawImage(video, 0, 0, 400, 400);
+				}
+
+        ctx.drawImage(spriteSheet, 0, 0, 139, 125, 0, 0, 139, 125);
+
+				requestAnimationFrame(renderLoop);
+			}
+		</script>
+	</body>
+</html>

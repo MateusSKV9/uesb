@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Document</title>
+		<style>
+			body {
+				background: #111;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				height: 100vh;
+				margin: 0;
+			}
+			canvas {
+				background: #fff;
+			}
+		</style>
+	</head>
+	<body>
+		<canvas id="meuCanvas" width="400" height="400"> </canvas>
+
+		<script>
+			const canvas = document.getElementById("meuCanvas");
+			const ctx = canvas.getContext("2d");
+			ctx.strokeStyle = "#e74c3c";
+			ctx.fillStyle = "#e7423c";
+			ctx.lineWidth = 3;
+			ctx.beginPath();
+
+			ctx.moveTo(210, 120); // Vinco superior
+
+			// 1. Bojo superior esquerdo
+			ctx.bezierCurveTo(180, 70, 90, 90, 95, 170);
+
+			// 2. Descida até a ponta inferior
+			ctx.bezierCurveTo(100, 240, 210, 310, 210, 320);
+
+			// Desenha o contorno do lado esquerdo
+			ctx.stroke();
+
+			// Reposiciona no topo central
+			ctx.moveTo(210, 120);
+			// 3. Bojo superior direito (espelhado)
+			ctx.bezierCurveTo(220, 70, 320, 90, 310, 170);
+			// 4. Descida até a ponta inferior (espelhado)
+			ctx.bezierCurveTo(300, 240, 200, 310, 200, 320);
+			// Desenha o contorno do lado direito
+			ctx.stroke();
+		</script>
+	</body>
+</html>
