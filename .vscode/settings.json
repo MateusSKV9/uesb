@@ -8,7 +8,11 @@
 		"diferenca",
 		"diferencas",
 		"Diferencas",
+		"dimensao",
+		"direcao",
+		"Direcao",
 		"divisao",
+		"Estaveis",
 		"indice",
 		"mudancas",
 		"Mudancas",
@@ -19,7 +23,9 @@
 		"posicao",
 		"Posicao",
 		"posicoes",
+		"Simetricas",
 		"Somatoria",
+		"somatorio",
 		"substituicao"
 	]
 }
