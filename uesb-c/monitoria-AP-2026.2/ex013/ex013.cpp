@@ -7,6 +7,18 @@ using namespace std;
   chamada, a função deverá considerar o elemento matriz[pos][pos] e avançar para a próxima posição da
   diagonal. O caso-base deverá ocorrer quando pos == n.
 */
+//     0 1 2 3
+// 0 | 1 2 3 4
+// 1 | 1 2 3 4
+// 2 | 1 2 3 4
+// 3 | 1 2 3 4
+
+// 0
+// 4 + 0
+// 3 + 4 + 0
+// 2 + 3 + 4 + 0
+// 1 + 2 + 3 + 4 + 0
+
 
 int somaDiagonal(int m[][4], int n, int pos) {
   if (pos == n) {

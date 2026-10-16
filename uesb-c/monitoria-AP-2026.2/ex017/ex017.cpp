@@ -53,12 +53,12 @@ int maiorAlternada(int v[], int n, int pos, int direcaoAnterior, int tamanhoAtua
   if (novoTamanho > maior) {
     maior = novoTamanho;
   }
-  
+
   return maiorAlternada(v, n, pos + 1, novaDirecao, novoTamanho, maior);
 }
 
 int main() {
-   int tamanho;
+  int tamanho;
 
   cout << "Digite o tamanho do vetor: ";
   cin >> tamanho;
@@ -71,13 +71,13 @@ int main() {
     cin >> vetor[i];
   }
 
-    if (tamanho == 0) {
-        cout << "Maior sequencia alternada: 0" << endl;
-    } else if (tamanho == 1) {
-        cout << "Maior sequencia alternada: 1" << endl;
-    } else {
-        cout << "Maior sequencia alternada: " << maiorAlternada(vetor, tamanho, 1, 0, 1, 1) << endl;
-    }
+  if (tamanho == 0) {
+    cout << "Maior sequencia alternada: 0" << endl;
+  } else if (tamanho == 1) {
+    cout << "Maior sequencia alternada: 1" << endl;
+  } else {
+    cout << "Maior sequencia alternada: " << maiorAlternada(vetor, tamanho, 1, 0, 1, 1) << endl;
+  }
 
-    return 0;
+  return 0;
 }
