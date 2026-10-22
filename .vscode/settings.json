@@ -4,6 +4,7 @@
 	},
 	"java.debug.settings.onBuildFailureProceed": true,
 	"cSpell.words": [
+		"ALTERACAO",
 		"Binario",
 		"diferenca",
 		"diferencas",
@@ -15,6 +16,9 @@
 		"Ediferenca",
 		"estaveis",
 		"Estaveis",
+		"EXIBICAO",
+		"funcao",
+		"impressao",
 		"indice",
 		"mudancas",
 		"Mudancas",
